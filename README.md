@@ -20,4 +20,4 @@ to create replacer patches. I took inspiration for this modlist from a youtuber 
 game called Falsepine. Without further ado I will post instructions for the modlist.
 
 
-Notes: You will need a fresh install of fallout new vegas, mod organizer 2 and LOOT. I do not suppoort pirated versions of the game.
+Notes: You will need a fresh install of [fallout new vegas](https://store.steampowered.com/agecheck/app/22380/) on steam , [mod organizer 2](https://www.modorganizer.org) and [Loot](https://loot.github.io). I do not suppoort pirated versions of the game.
