@@ -1,4 +1,4 @@
-## Manual Install
+## 4GB Patcher
 [4GB patcher](https://www.nexusmods.com/newvegas/mods/62552?tab=description) should be installed manually into the fallout new vegas folder.
 
 ## New Vegas Bounties
