@@ -1,8 +1,11 @@
 # Wild-Imaginary-Wastes
-*A fallout new vegas modlist
+***A fallout new vegas modlist***
 
 
-  Hello I'm Aria and if you are here on this page that means either you got lost on the internet 
+  
+  
+  
+Hello I'm Aria and if you are here on this page that means either you got lost on the internet 
 or you have just installed my first modlist Wild Imaginary Wastes: A Neo Cowboy Experience. 
 The purpose of this modlist is to create a neo-western experience for a game that already has 
 very heavy western undertones. Neo-western is a strange mix of futuristic technology and old 
