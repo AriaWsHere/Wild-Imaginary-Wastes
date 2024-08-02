@@ -1,7 +1,5 @@
 ## Manual Install
-I strongly suggest you manually install vanilla hud ui
-and 4gb patcher as I am not sure how well they work 
-when installed through MO2.
+[4GB patcher](https://www.nexusmods.com/newvegas/mods/62552?tab=description) should be installed manually into the fallout new vegas folder.
 
 ## New Vegas Bounties
 Make sure to not have New Vegas Bounties III enabled
