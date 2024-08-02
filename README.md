@@ -13,3 +13,6 @@ these wonderful authors. This modlist will be updated periodicaly as I find new 
 to create replacer patches. I took inspiration for this modlist from a youtuber know as 
 Boylei Hobby Time and his "wild Imaginary West" playlist of dioramas as well as a free (at the time of typing) 
 game called Falsepine. Without further ado I will post instructions for the modlist.
+
+
+Notes: You will need a fresh install of fallout new vegas, mod organizer 2 and LOOT. I do not suppoort pirated versions of the game.
