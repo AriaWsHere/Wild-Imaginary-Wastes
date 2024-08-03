@@ -5,7 +5,7 @@
   
   
   
-Hello I'm Aria and if you are here on this page that means either you got lost on the internet 
+>  Hello I'm Aria and if you are here on this page that means either you got lost on the internet 
 or you have just installed my first modlist Wild Imaginary Wastes: A Neo Cowboy Experience. 
 The purpose of this modlist is to create a neo-western experience for a game that already has 
 very heavy western undertones. Neo-western is a strange mix of futuristic technology and old 
@@ -30,7 +30,7 @@ game called Falsepine. Without further ado I will post instructions for the modl
 - CPU: Dual Core 2.0GHz
 - GPU: NVIDIA GeForce 6 series, ATI 1300XT series or better
 
-# Notes
+# Mod Specifics
 
 ## 4GB Patcher
 [4GB patcher](https://www.nexusmods.com/newvegas/mods/62552?tab=description) should be installed manually into the fallout new vegas folder.
@@ -45,7 +45,7 @@ Please make sure you only have one plugin selected
 for Western Skies. When installed in MO2 it does 
 not give you options so you will have to do this manually.
 
-## 3000 and 6000
+## 3000 and 6000 (This is a resolution add on for Western Skies)
 Only one mod needs to be selected for 3000 and
 6000. 6000 is for a higher end pc and 3000 is
 for a lower end one.
